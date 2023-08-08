@@ -1,5 +1,6 @@
 # From Rembrandt to Van Gogh
-The theme aims to explore links and patterns between Rembrandt and Van Gogh
+The theme aims to explore links and patterns between Rembrandt and Van Gogh.
+
 Due to the size limit, I have to make subfiles:
 1. Analysis and Visualization: 1.1 Metadata Overview
                                1.2 Van Gogh's Dataset
